@@ -1,0 +1,6 @@
+# Ignore data files
+*.csv
+*.txt
+
+# Ignore specific files
+API_keys.py
